@@ -7,6 +7,6 @@
 
 
 
-## Thanks to [Julian Garnier](https://github.com/juliangarnier/juliangarnier.com)
+## Thanks to [Brittany Chiang](https://github.com/bchiang7/bchiang7.github.io)
 
 
